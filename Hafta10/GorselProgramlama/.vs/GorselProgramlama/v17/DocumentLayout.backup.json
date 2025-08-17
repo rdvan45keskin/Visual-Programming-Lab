@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\R\u0131dvan Keskin\\Documents\\dersler\\3.s\u0131n\u0131f\\2.d\u00F6nem\\GorselProgramlama\\Hafta10\\GorselProgramlama\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46C51955-9024-49FB-B5F5-FE61A391DD98}|Artt\u0131rma_Azaltma\\Artt\u0131rma_Azaltma.csproj|c:\\users\\r\u0131dvan keskin\\documents\\dersler\\3.s\u0131n\u0131f\\2.d\u00F6nem\\gorselprogramlama\\hafta10\\gorselprogramlama\\artt\u0131rma_azaltma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C51955-9024-49FB-B5F5-FE61A391DD98}|Artt\u0131rma_Azaltma\\Artt\u0131rma_Azaltma.csproj|solutionrelative:artt\u0131rma_azaltma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C51955-9024-49FB-B5F5-FE61A391DD98}|Artt\u0131rma_Azaltma\\Artt\u0131rma_Azaltma.csproj|c:\\users\\r\u0131dvan keskin\\documents\\dersler\\3.s\u0131n\u0131f\\2.d\u00F6nem\\gorselprogramlama\\hafta10\\gorselprogramlama\\artt\u0131rma_azaltma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46C51955-9024-49FB-B5F5-FE61A391DD98}|Artt\u0131rma_Azaltma\\Artt\u0131rma_Azaltma.csproj|solutionrelative:artt\u0131rma_azaltma\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F430F9E-18CE-46F6-9B7E-F81888D8A996}|ConvertMetodu\\ConvertMetodu.csproj|c:\\users\\r\u0131dvan keskin\\documents\\dersler\\3.s\u0131n\u0131f\\2.d\u00F6nem\\gorselprogramlama\\hafta10\\gorselprogramlama\\convertmetodu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F430F9E-18CE-46F6-9B7E-F81888D8A996}|ConvertMetodu\\ConvertMetodu.csproj|solutionrelative:convertmetodu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BDFE821-8985-416F-9C2F-D0592448DFEA}|Mant\u0131ksalOperatorler\\Mant\u0131ksalOperatorler.csproj|c:\\users\\r\u0131dvan keskin\\documents\\dersler\\3.s\u0131n\u0131f\\2.d\u00F6nem\\gorselprogramlama\\hafta10\\gorselprogramlama\\mant\u0131ksaloperatorler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BDFE821-8985-416F-9C2F-D0592448DFEA}|Mant\u0131ksalOperatorler\\Mant\u0131ksalOperatorler.csproj|solutionrelative:mant\u0131ksaloperatorler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\R\u0131dvan Keskin\\Documents\\dersler\\3.s\u0131n\u0131f\\2.d\u00F6nem\\GorselProgramlama\\Hafta10\\GorselProgramlama\\Artt\u0131rma_Azaltma\\Form1.cs",
+              "RelativeDocumentMoniker": "Artt\u0131rma_Azaltma\\Form1.cs",
+              "ToolTip": "C:\\Users\\R\u0131dvan Keskin\\Documents\\dersler\\3.s\u0131n\u0131f\\2.d\u00F6nem\\GorselProgramlama\\Hafta10\\GorselProgramlama\\Artt\u0131rma_Azaltma\\Form1.cs",
+              "RelativeToolTip": "Artt\u0131rma_Azaltma\\Form1.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAswD8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T14:31:40.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\R\u0131dvan Keskin\\Documents\\dersler\\3.s\u0131n\u0131f\\2.d\u00F6nem\\GorselProgramlama\\Hafta10\\GorselProgramlama\\Artt\u0131rma_Azaltma\\Form1.cs",
+              "RelativeDocumentMoniker": "Artt\u0131rma_Azaltma\\Form1.cs",
+              "ToolTip": "C:\\Users\\R\u0131dvan Keskin\\Documents\\dersler\\3.s\u0131n\u0131f\\2.d\u00F6nem\\GorselProgramlama\\Hafta10\\GorselProgramlama\\Artt\u0131rma_Azaltma\\Form1.cs [Design]",
+              "RelativeToolTip": "Artt\u0131rma_Azaltma\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T14:31:31.858Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\R\u0131dvan Keskin\\Documents\\dersler\\3.s\u0131n\u0131f\\2.d\u00F6nem\\GorselProgramlama\\Hafta10\\GorselProgramlama\\ConvertMetodu\\Form1.cs",
+              "RelativeDocumentMoniker": "ConvertMetodu\\Form1.cs",
+              "ToolTip": "C:\\Users\\R\u0131dvan Keskin\\Documents\\dersler\\3.s\u0131n\u0131f\\2.d\u00F6nem\\GorselProgramlama\\Hafta10\\GorselProgramlama\\ConvertMetodu\\Form1.cs [Design]",
+              "RelativeToolTip": "ConvertMetodu\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T14:31:29.931Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\R\u0131dvan Keskin\\Documents\\dersler\\3.s\u0131n\u0131f\\2.d\u00F6nem\\GorselProgramlama\\Hafta10\\GorselProgramlama\\Mant\u0131ksalOperatorler\\Form1.cs",
+              "RelativeDocumentMoniker": "Mant\u0131ksalOperatorler\\Form1.cs",
+              "ToolTip": "C:\\Users\\R\u0131dvan Keskin\\Documents\\dersler\\3.s\u0131n\u0131f\\2.d\u00F6nem\\GorselProgramlama\\Hafta10\\GorselProgramlama\\Mant\u0131ksalOperatorler\\Form1.cs [Design]",
+              "RelativeToolTip": "Mant\u0131ksalOperatorler\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T14:31:27.983Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

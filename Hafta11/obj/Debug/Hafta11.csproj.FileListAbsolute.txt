@@ -1,0 +1,10 @@
+C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\Hafta11\bin\Debug\Hafta11.exe.config
+C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\Hafta11\bin\Debug\Hafta11.exe
+C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\Hafta11\bin\Debug\Hafta11.pdb
+C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\Hafta11\obj\Debug\Hafta11.csproj.AssemblyReference.cache
+C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\Hafta11\obj\Debug\Hafta11.Form1.resources
+C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\Hafta11\obj\Debug\Hafta11.Properties.Resources.resources
+C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\Hafta11\obj\Debug\Hafta11.csproj.GenerateResource.cache
+C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\Hafta11\obj\Debug\Hafta11.csproj.CoreCompileInputs.cache
+C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\Hafta11\obj\Debug\Hafta11.exe
+C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\Hafta11\obj\Debug\Hafta11.pdb

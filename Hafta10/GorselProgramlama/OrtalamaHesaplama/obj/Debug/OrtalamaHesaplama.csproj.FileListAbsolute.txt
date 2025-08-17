@@ -1,0 +1,11 @@
+C:\Users\anamakina\Desktop\GorselProgramlama\OrtalamaHesaplama\bin\Debug\OrtalamaHesaplama.exe.config
+C:\Users\anamakina\Desktop\GorselProgramlama\OrtalamaHesaplama\bin\Debug\OrtalamaHesaplama.exe
+C:\Users\anamakina\Desktop\GorselProgramlama\OrtalamaHesaplama\bin\Debug\OrtalamaHesaplama.pdb
+C:\Users\anamakina\Desktop\GorselProgramlama\OrtalamaHesaplama\obj\Debug\OrtalamaHesaplama.csproj.AssemblyReference.cache
+C:\Users\anamakina\Desktop\GorselProgramlama\OrtalamaHesaplama\obj\Debug\OrtalamaHesaplama.FrmHesapla.resources
+C:\Users\anamakina\Desktop\GorselProgramlama\OrtalamaHesaplama\obj\Debug\OrtalamaHesaplama.Properties.Resources.resources
+C:\Users\anamakina\Desktop\GorselProgramlama\OrtalamaHesaplama\obj\Debug\OrtalamaHesaplama.csproj.GenerateResource.cache
+C:\Users\anamakina\Desktop\GorselProgramlama\OrtalamaHesaplama\obj\Debug\OrtalamaHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\anamakina\Desktop\GorselProgramlama\OrtalamaHesaplama\obj\Debug\OrtalamaHesaplama.exe
+C:\Users\anamakina\Desktop\GorselProgramlama\OrtalamaHesaplama\obj\Debug\OrtalamaHesaplama.pdb
+C:\Users\anamakina\Desktop\GorselProgramlama\OrtalamaHesaplama\obj\Debug\OrtalamaHesaplama.FrmAna.resources

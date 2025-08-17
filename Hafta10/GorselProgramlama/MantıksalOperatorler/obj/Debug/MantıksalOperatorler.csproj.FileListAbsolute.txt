@@ -1,0 +1,10 @@
+C:\Users\anamakina\Desktop\GorselProgramlama\MantıksalOperatorler\bin\Debug\MantıksalOperatorler.exe.config
+C:\Users\anamakina\Desktop\GorselProgramlama\MantıksalOperatorler\bin\Debug\MantıksalOperatorler.exe
+C:\Users\anamakina\Desktop\GorselProgramlama\MantıksalOperatorler\bin\Debug\MantıksalOperatorler.pdb
+C:\Users\anamakina\Desktop\GorselProgramlama\MantıksalOperatorler\obj\Debug\MantıksalOperatorler.csproj.AssemblyReference.cache
+C:\Users\anamakina\Desktop\GorselProgramlama\MantıksalOperatorler\obj\Debug\MantıksalOperatorler.Form1.resources
+C:\Users\anamakina\Desktop\GorselProgramlama\MantıksalOperatorler\obj\Debug\MantıksalOperatorler.Properties.Resources.resources
+C:\Users\anamakina\Desktop\GorselProgramlama\MantıksalOperatorler\obj\Debug\MantıksalOperatorler.csproj.GenerateResource.cache
+C:\Users\anamakina\Desktop\GorselProgramlama\MantıksalOperatorler\obj\Debug\MantıksalOperatorler.csproj.CoreCompileInputs.cache
+C:\Users\anamakina\Desktop\GorselProgramlama\MantıksalOperatorler\obj\Debug\MantıksalOperatorler.exe
+C:\Users\anamakina\Desktop\GorselProgramlama\MantıksalOperatorler\obj\Debug\MantıksalOperatorler.pdb

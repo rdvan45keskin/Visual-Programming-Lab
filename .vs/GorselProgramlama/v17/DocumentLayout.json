@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\R\u0131dvan Keskin\\Documents\\dersler\\3.s\u0131n\u0131f\\2.d\u00F6nem\\GorselProgramlama\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCF5050-10A5-4B63-BC04-0FAD7999546A}|Hafta15\\Hafta15.csproj|c:\\users\\r\u0131dvan keskin\\documents\\dersler\\3.s\u0131n\u0131f\\2.d\u00F6nem\\gorselprogramlama\\hafta15\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCF5050-10A5-4B63-BC04-0FAD7999546A}|Hafta15\\Hafta15.csproj|solutionrelative:hafta15\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCF5050-10A5-4B63-BC04-0FAD7999546A}|Hafta15\\Hafta15.csproj|c:\\users\\r\u0131dvan keskin\\documents\\dersler\\3.s\u0131n\u0131f\\2.d\u00F6nem\\gorselprogramlama\\hafta15\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5CCF5050-10A5-4B63-BC04-0FAD7999546A}|Hafta15\\Hafta15.csproj|solutionrelative:hafta15\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B846DFE4-E275-455B-8986-B3AA5B3C7AFA}|Hafta14\\Hafta14.csproj|c:\\users\\r\u0131dvan keskin\\documents\\dersler\\3.s\u0131n\u0131f\\2.d\u00F6nem\\gorselprogramlama\\hafta14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B846DFE4-E275-455B-8986-B3AA5B3C7AFA}|Hafta14\\Hafta14.csproj|solutionrelative:hafta14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B846DFE4-E275-455B-8986-B3AA5B3C7AFA}|Hafta14\\Hafta14.csproj|c:\\users\\r\u0131dvan keskin\\documents\\dersler\\3.s\u0131n\u0131f\\2.d\u00F6nem\\gorselprogramlama\\hafta14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B846DFE4-E275-455B-8986-B3AA5B3C7AFA}|Hafta14\\Hafta14.csproj|solutionrelative:hafta14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\R\u0131dvan Keskin\\Documents\\dersler\\3.s\u0131n\u0131f\\2.d\u00F6nem\\GorselProgramlama\\Hafta15\\Form1.cs",
+              "RelativeDocumentMoniker": "Hafta15\\Form1.cs",
+              "ToolTip": "C:\\Users\\R\u0131dvan Keskin\\Documents\\dersler\\3.s\u0131n\u0131f\\2.d\u00F6nem\\GorselProgramlama\\Hafta15\\Form1.cs",
+              "RelativeToolTip": "Hafta15\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T12:48:25.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\R\u0131dvan Keskin\\Documents\\dersler\\3.s\u0131n\u0131f\\2.d\u00F6nem\\GorselProgramlama\\Hafta15\\Form1.cs",
+              "RelativeDocumentMoniker": "Hafta15\\Form1.cs",
+              "ToolTip": "C:\\Users\\R\u0131dvan Keskin\\Documents\\dersler\\3.s\u0131n\u0131f\\2.d\u00F6nem\\GorselProgramlama\\Hafta15\\Form1.cs [Design]",
+              "RelativeToolTip": "Hafta15\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T12:48:06.044Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\R\u0131dvan Keskin\\Documents\\dersler\\3.s\u0131n\u0131f\\2.d\u00F6nem\\GorselProgramlama\\Hafta14\\Form1.cs",
+              "RelativeDocumentMoniker": "Hafta14\\Form1.cs",
+              "ToolTip": "C:\\Users\\R\u0131dvan Keskin\\Documents\\dersler\\3.s\u0131n\u0131f\\2.d\u00F6nem\\GorselProgramlama\\Hafta14\\Form1.cs",
+              "RelativeToolTip": "Hafta14\\Form1.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwFAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T12:45:33.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\R\u0131dvan Keskin\\Documents\\dersler\\3.s\u0131n\u0131f\\2.d\u00F6nem\\GorselProgramlama\\Hafta14\\Form1.cs",
+              "RelativeDocumentMoniker": "Hafta14\\Form1.cs",
+              "ToolTip": "C:\\Users\\R\u0131dvan Keskin\\Documents\\dersler\\3.s\u0131n\u0131f\\2.d\u00F6nem\\GorselProgramlama\\Hafta14\\Form1.cs [Design]",
+              "RelativeToolTip": "Hafta14\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T12:45:16.12Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

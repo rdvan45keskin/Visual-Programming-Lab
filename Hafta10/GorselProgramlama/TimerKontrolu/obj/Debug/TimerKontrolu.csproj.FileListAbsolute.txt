@@ -1,0 +1,10 @@
+C:\Users\anamakina\Desktop\GorselProgramlama\TimerKontrolu\bin\Debug\TimerKontrolu.exe.config
+C:\Users\anamakina\Desktop\GorselProgramlama\TimerKontrolu\bin\Debug\TimerKontrolu.exe
+C:\Users\anamakina\Desktop\GorselProgramlama\TimerKontrolu\bin\Debug\TimerKontrolu.pdb
+C:\Users\anamakina\Desktop\GorselProgramlama\TimerKontrolu\obj\Debug\TimerKontrolu.csproj.AssemblyReference.cache
+C:\Users\anamakina\Desktop\GorselProgramlama\TimerKontrolu\obj\Debug\TimerKontrolu.Form1.resources
+C:\Users\anamakina\Desktop\GorselProgramlama\TimerKontrolu\obj\Debug\TimerKontrolu.Properties.Resources.resources
+C:\Users\anamakina\Desktop\GorselProgramlama\TimerKontrolu\obj\Debug\TimerKontrolu.csproj.GenerateResource.cache
+C:\Users\anamakina\Desktop\GorselProgramlama\TimerKontrolu\obj\Debug\TimerKontrolu.csproj.CoreCompileInputs.cache
+C:\Users\anamakina\Desktop\GorselProgramlama\TimerKontrolu\obj\Debug\TimerKontrolu.exe
+C:\Users\anamakina\Desktop\GorselProgramlama\TimerKontrolu\obj\Debug\TimerKontrolu.pdb

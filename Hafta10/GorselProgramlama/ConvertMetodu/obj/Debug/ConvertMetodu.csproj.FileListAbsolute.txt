@@ -1,0 +1,10 @@
+C:\Users\anamakina\Desktop\GorselProgramlama\ConvertMetodu\bin\Debug\ConvertMetodu.exe.config
+C:\Users\anamakina\Desktop\GorselProgramlama\ConvertMetodu\bin\Debug\ConvertMetodu.exe
+C:\Users\anamakina\Desktop\GorselProgramlama\ConvertMetodu\bin\Debug\ConvertMetodu.pdb
+C:\Users\anamakina\Desktop\GorselProgramlama\ConvertMetodu\obj\Debug\ConvertMetodu.csproj.AssemblyReference.cache
+C:\Users\anamakina\Desktop\GorselProgramlama\ConvertMetodu\obj\Debug\ConvertMetodu.Form1.resources
+C:\Users\anamakina\Desktop\GorselProgramlama\ConvertMetodu\obj\Debug\ConvertMetodu.Properties.Resources.resources
+C:\Users\anamakina\Desktop\GorselProgramlama\ConvertMetodu\obj\Debug\ConvertMetodu.csproj.GenerateResource.cache
+C:\Users\anamakina\Desktop\GorselProgramlama\ConvertMetodu\obj\Debug\ConvertMetodu.csproj.CoreCompileInputs.cache
+C:\Users\anamakina\Desktop\GorselProgramlama\ConvertMetodu\obj\Debug\ConvertMetodu.exe
+C:\Users\anamakina\Desktop\GorselProgramlama\ConvertMetodu\obj\Debug\ConvertMetodu.pdb

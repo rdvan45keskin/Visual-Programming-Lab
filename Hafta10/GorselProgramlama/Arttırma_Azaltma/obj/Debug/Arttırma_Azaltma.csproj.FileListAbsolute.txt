@@ -1,0 +1,20 @@
+C:\Users\anamakina\Desktop\GorselProgramlama\Arttırma_Azaltma\bin\Debug\Arttırma_Azaltma.exe.config
+C:\Users\anamakina\Desktop\GorselProgramlama\Arttırma_Azaltma\bin\Debug\Arttırma_Azaltma.exe
+C:\Users\anamakina\Desktop\GorselProgramlama\Arttırma_Azaltma\bin\Debug\Arttırma_Azaltma.pdb
+C:\Users\anamakina\Desktop\GorselProgramlama\Arttırma_Azaltma\obj\Debug\Arttırma_Azaltma.csproj.AssemblyReference.cache
+C:\Users\anamakina\Desktop\GorselProgramlama\Arttırma_Azaltma\obj\Debug\Arttırma_Azaltma.Form1.resources
+C:\Users\anamakina\Desktop\GorselProgramlama\Arttırma_Azaltma\obj\Debug\Arttırma_Azaltma.Properties.Resources.resources
+C:\Users\anamakina\Desktop\GorselProgramlama\Arttırma_Azaltma\obj\Debug\Arttırma_Azaltma.csproj.GenerateResource.cache
+C:\Users\anamakina\Desktop\GorselProgramlama\Arttırma_Azaltma\obj\Debug\Arttırma_Azaltma.csproj.CoreCompileInputs.cache
+C:\Users\anamakina\Desktop\GorselProgramlama\Arttırma_Azaltma\obj\Debug\Arttırma_Azaltma.exe
+C:\Users\anamakina\Desktop\GorselProgramlama\Arttırma_Azaltma\obj\Debug\Arttırma_Azaltma.pdb
+C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\Hafta10\GorselProgramlama\Arttırma_Azaltma\bin\Debug\Arttırma_Azaltma.exe.config
+C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\Hafta10\GorselProgramlama\Arttırma_Azaltma\bin\Debug\Arttırma_Azaltma.exe
+C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\Hafta10\GorselProgramlama\Arttırma_Azaltma\bin\Debug\Arttırma_Azaltma.pdb
+C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\Hafta10\GorselProgramlama\Arttırma_Azaltma\obj\Debug\Arttırma_Azaltma.csproj.AssemblyReference.cache
+C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\Hafta10\GorselProgramlama\Arttırma_Azaltma\obj\Debug\Arttırma_Azaltma.Form1.resources
+C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\Hafta10\GorselProgramlama\Arttırma_Azaltma\obj\Debug\Arttırma_Azaltma.Properties.Resources.resources
+C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\Hafta10\GorselProgramlama\Arttırma_Azaltma\obj\Debug\Arttırma_Azaltma.csproj.GenerateResource.cache
+C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\Hafta10\GorselProgramlama\Arttırma_Azaltma\obj\Debug\Arttırma_Azaltma.csproj.CoreCompileInputs.cache
+C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\Hafta10\GorselProgramlama\Arttırma_Azaltma\obj\Debug\Arttırma_Azaltma.exe
+C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\Hafta10\GorselProgramlama\Arttırma_Azaltma\obj\Debug\Arttırma_Azaltma.pdb
