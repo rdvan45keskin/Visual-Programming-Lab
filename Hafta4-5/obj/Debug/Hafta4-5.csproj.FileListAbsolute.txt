@@ -8,3 +8,14 @@ C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\H
 C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\Hafta4-5\obj\Debug\Hafta4-5.csproj.CoreCompileInputs.cache
 C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\Hafta4-5\obj\Debug\Hafta4-5.exe
 C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\Hafta4-5\obj\Debug\Hafta4-5.pdb
+C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\Visual-Programming-Lab\Hafta4-5\bin\Debug\Hafta4-5.exe.config
+C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\Visual-Programming-Lab\Hafta4-5\bin\Debug\Hafta4-5.exe
+C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\Visual-Programming-Lab\Hafta4-5\bin\Debug\Hafta4-5.pdb
+C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\Visual-Programming-Lab\Hafta4-5\obj\Debug\Hafta4-5.csproj.AssemblyReference.cache
+C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\Visual-Programming-Lab\Hafta4-5\obj\Debug\Hafta4-5.exe.config
+C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\Visual-Programming-Lab\Hafta4-5\obj\Debug\Hafta4_5.Form1.resources
+C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\Visual-Programming-Lab\Hafta4-5\obj\Debug\Hafta4_5.Properties.Resources.resources
+C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\Visual-Programming-Lab\Hafta4-5\obj\Debug\Hafta4-5.csproj.GenerateResource.cache
+C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\Visual-Programming-Lab\Hafta4-5\obj\Debug\Hafta4-5.csproj.CoreCompileInputs.cache
+C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\Visual-Programming-Lab\Hafta4-5\obj\Debug\Hafta4-5.exe
+C:\Users\Rıdvan Keskin\Documents\dersler\3.sınıf\2.dönem\GorselProgramlama\Visual-Programming-Lab\Hafta4-5\obj\Debug\Hafta4-5.pdb
